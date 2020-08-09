@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Pasta onde será gerada o código Javascript pelo TS.
+    "module": "commonjs", // Gera o código na versão 'common', padrão que os Browsers entendem.
+    "target": "es2019", // Será gerado o Javascript na versão de suporte do es2019.
+    "esModuleInterop": true, // Questão dos Imports e exports
+    "allowJs": true // Permite arquivos JS
+  }
+}
