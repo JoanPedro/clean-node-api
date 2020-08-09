@@ -1,2 +1,2 @@
 # clean-node-api
- NodeJs, Typescript, TDD, Clean Architecture e SOLID.
+  Projeto de estudos e boas práticas com NodeJs, Typescript, TDD, Clean Architecture e SOLID.
