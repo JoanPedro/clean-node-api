@@ -7,6 +7,7 @@ module.exports = {
     '!**/protocols/index.ts',
     '!**/test/**'
   ],
+  preset: '@shelf/jest-mongodb',
   coverageDirectory: 'coverage',
   coverageProvider: 'babel',
   testEnvironment: 'node',
